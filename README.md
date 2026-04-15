@@ -1,2 +1,2 @@
-# Public
-This is for everything I need to share publically
+# Song Trend Project
+Files for my Power BI Listening Habits project  
