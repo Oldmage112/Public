@@ -1,2 +1,2 @@
-# Song Trend Project
-Files for my Power BI Listening Habits project  
+# First Semester Files
+Files for my Power BI Listening Habits project and Lovable PRD  
